@@ -1,2 +1,4 @@
 Hello Artifactory and Sonar
-lets make the some change
+lets make the some chan
+we are releasing the nw version of the software
+
